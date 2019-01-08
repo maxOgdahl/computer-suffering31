@@ -1,2 +1,6 @@
 # computer-suffering31
-cs 31 project archive
+UCLA CS 31 Project Archive
+
+DO NOT USE to Create or Check CS 31 Projects
+Projects are NOT all 100%
+This upload is purely for archival purposes.
